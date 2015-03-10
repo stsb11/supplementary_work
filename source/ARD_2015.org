@@ -90,17 +90,17 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Using Bourne To Invent - [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/3_Lesson.html][Motors]] - complete all the badged tasks.
-- If you have already completed the Motors lesson, then make sure you have completed the [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/2_Lesson.html][Silver task on Pulleys]] (note - this page needs viewing in FireFox)
+- Using Bourne To Invent - [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/3_Lesson.html][Motors]] - complete all the badge tasks.
+- If you have already completed the Motors lesson, then make sure you have completed the [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/2_Lesson.html][Silver task on Pulleys]] (note - this page needs viewing in Firefox)
 - If you have completed this already, then use online resources to research and write about the use of linear cams in pin and tumbler locks.
 ** Year 7 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- You've been using html and css to build your own webpages.
-- You can also use html and css to create logos and graphics for your webpage, but it's a little tricky to do without some help.
+- You've been using html and css to build your own web-pages.
+- You can also use html and css to create logos and graphics for your web-page, but it's a little tricky to do without some help.
 - Go to [[http://www.samuelrossille.com/css-shape/][This html generator site]]
-- Use the simple tools to create a graphic for your webpage.
+- Use the simple tools to create a graphic for your web-page.
 - You can then copy and paste the generated html into a page of your own.
 ** Year 8 - Computing
 :PROPERTIES:
@@ -119,7 +119,7 @@
 :END:
 - Later this term you will be experimenting with different mechanisms.
 - Electric motors are often used to drive various mechanical mechanisms.
-- Use [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/3_Lesson.html][this resource on Bourne To Invent]] and complete all the badged tasks.
+- Use [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/3_Lesson.html][this resource on Bourne To Invent]] and complete all the badge tasks.
 ** Year 9 - Additional ICT
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -140,12 +140,12 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - Continue with your Controlled Assessment write up.
-- If you can not access the console for your VM, then you can continue the writeup with any document editing software and use your repo on Github for guidance.
+- If you can not access the console for your VM, then you can continue the write-up with any document editing software and use your repo on Github for guidance.
 ** Year 11 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Continue working on your Controlled Assessment writeup
+- Continue working on your Controlled Assessment write-up
 - This is due in on Monday morning.
 ** Year 12 - Systems & Control
 :PROPERTIES:
