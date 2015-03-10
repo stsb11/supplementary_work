@@ -91,7 +91,7 @@
 :HTML_CONTAINER_CLASS: learn
 :END:
 - Using Bourne To Invent - [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/3_Lesson.html][Motors]] - complete all the badge tasks.
-- If you have already completed the Motors lesson, then make sure you have completed the [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/2_Lesson.html][Silver task on Pulleys]] (note - this page needs viewing in Firefox)
+- If you have already completed the Motors lesson, then make sure you have completed the [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/2_Lesson.html][Silver task on Pulleys]] (note - this page needs viewing in Firefox).
 - If you have completed this already, then use online resources to research and write about the use of linear cams in pin and tumbler locks.
 ** Year 7 - Computing
 :PROPERTIES:
