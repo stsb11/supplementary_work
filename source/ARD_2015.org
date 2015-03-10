@@ -13,7 +13,7 @@
 </div>
 <div id="stickyribbon">
     <ul>
-      <li><a href="ARD_2015.html">Week1</a></li>
+      <li><a href="ARD_2015.html">ARD 2015</a></li>
     </ul>
 </div>
 #+END_HTML
