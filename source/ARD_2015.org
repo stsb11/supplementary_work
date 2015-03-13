@@ -99,7 +99,7 @@
 :END:
 - You've been using html and css to build your own web-pages.
 - You can also use html and css to create logos and graphics for your web-page, but it's a little tricky to do without some help.
-- Go to [[http://www.samuelrossille.com/css-shape/][This html generator site]]
+- Go to [[http://www.samuelrossille.com/css-shape/index.html][This html generator site]]
 - Use the simple tools to create a graphic for your web-page.
 - You can then copy and paste the generated html into a page of your own.
 ** Year 8 - Computing
