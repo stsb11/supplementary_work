@@ -8,12 +8,12 @@
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
         <div class="github-fork-ribbon">
-            <a href="https://github.com/MarcScott/Supplementary Work">Fork me on GitHub</a>
+            <a href="https://github.com/stsb11/Supplementary Work">Fork me on GitHub</a>
         </div>
 </div>
 <div id="stickyribbon">
     <ul>
-      <li><a href="ARD_2015.html">ARD 2015</a></li>
+      <li><a href="https://github.com/stsb11/supplementary_work/index.html">Menu</a></li>
     </ul>
 </div>
 #+END_HTML
