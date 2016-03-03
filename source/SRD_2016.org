@@ -2,8 +2,8 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
 #+HTML_HEAD_EXTRA: <link href='http://fonts.googleapis.com/css?family=Ubuntu+Mono|Ubuntu' rel='stylesheet' type='text/css'>
 #+OPTIONS: f:nil author:nil num:1 creator:nil timestamp:nil toc:nil
-#+TITLE: ARD 2015
-#+AUTHOR: Marc Scott
+#+TITLE: SRD 2016
+#+AUTHOR: Clinton Delport
 
 #+BEGIN_HTML
 <div class="github-fork-ribbon-wrapper left">
@@ -82,17 +82,10 @@
 :HTML_CONTAINER_CLASS: save
 :END:
 
-* ARD Work - 2015
+* SRD Work - 2016 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
 :END:
-** Year 7 - Systems & Control
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- Using Bourne To Invent - [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/3_Lesson.html][Motors]] - complete all the badge tasks.
-- If you have already completed the Motors lesson, then make sure you have completed the [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/2_Lesson.html][Silver task on Pulleys]] (note - this page needs viewing in Firefox).
-- If you have completed this already, then use online resources to research and write about the use of linear cams in pin and tumbler locks.
 ** Year 7 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
@@ -113,51 +106,53 @@
 - Label items that can be picked up by the player, and annotate to include where and how those items can be used.
 - Label opponents that can be thwarted by the player.
 - Your map must include a minimum of 8 different areas.
+** Year 8 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- You have been learning to build mechanisms this term.
+- There are examples of linkages on [[https://bournetoinvent.com/projects/9-SC-Mechanisms/pages/3_Lesson.html][www.bournetoinvent.com]].
+- Research 2 different types of linkages and their practical applications. Upload this to the [[http://www.bournetolearn.com][www.bournetolearn.com]] site for the platinum badge week 3.
+- If you have completed this, go back to the previous badges and complete any unfinished theory tasks.
+
 ** Year 9 - Systems & Control
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Later this term you will be experimenting with different mechanisms.
-- Electric motors are often used to drive various mechanical mechanisms.
-- Use [[https://www.bournetoinvent.com/projects/7-SC-Mechanisms/pages/3_Lesson.html][this resource on Bourne To Invent]] and complete all the badge tasks.
-** Year 9 - Additional ICT
+- Later this year you will be designing and building your own electric drag car.
+- Electric cars have been around for many years; you will need to research this.
+- Click on the link, [[https://bournetoinvent.com/projects/9-SC-Flyer/1.html][Bournetoinvent]], you will be able to read up on the history of the electric car.
+- Complete the Silver and Gold badges for week 1, 'The Delport Flyer' and upload your work to [[http://www.bournetolearn.com][www.bournetolearn.com]].
+** Year 9 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Colbie Caillat recently took a stand against Photoshop in her new music video, "Try." She and several other women go from all-made-up to completely natural to make their point clear.
-- Write minimum of half a page arguing for or against Photoshop in the media, backing your arguments up using factual statements from news items.
-- Take a look at the [[https://www.youtube.com/watch?v%3DiYhCn0jf46U][Dove evolution]] time lapse you tube video, to see how Photoshop is being used.
-- Look also at the[[https://www.bbc.co.uk/news/business-23714699][ BBC news website]] for Photoshop items.
+- Open Scratch by clicking on [[https://scratch.mit.edu/projects/editor/][this]] link.
+- 
+
 ** Year 10 - Systems & Control
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Continue to write the first up your proposal for your CA project.
-- Project options are located in: G:\Systems and Control\Year 10-11 GCSE S&C\Year 10\.
-- Mr. Brown can be emailed with any specific queries.
-** Year 10 - Computing
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- Continue with your Controlled Assessment write up.
-- If you can not access the console for your VM, then you can continue the write-up with any document editing software and use your repo on Github for guidance.
-** Year 11 - Computing
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- Continue working on your Controlled Assessment write-up
-- This is due in on Monday morning.
-** Year 12 - Systems & Control
-:PROPERTIES:
-:HTML_CONTAINER_CLASS: learn
-:END:
-- Continue with your coursework write-up
+- Continue with the coursework development of your level crossing project.
 ** Year 12 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
+- Write up your research on the pros and cons of national security versus right to privacy using recent prominent cases.
+- Click on [[http://www.bbc.co.uk/search?q%3Dprivacy%2520law][this]] link for examples.
+** Year 12 - Systems & Control
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Continue with your coursework write-up.
+** Year 13 - Computing
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: learn
+:END:
+- Continue with your coursework write-up.
 ** Year 13 - Systems & Control
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Continue with your coursework write-up
+- Continue with your coursework write-up.
