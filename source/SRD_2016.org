@@ -127,9 +127,17 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- Open Scratch by clicking on [[https://scratch.mit.edu/projects/editor/][this]] link.
-- 
-
+- Open Scratch by clicking on [[https://scratch.mit.edu/projects/79700266/#editor][this]] link.
+- Once inside the project, click the green flag icon (top-middle of screen) to run the program.
+- Replace the 'Square' command with 'Pentagon', as directed on the page.
+- *TASK:* Make the program draw a pentagon. Upload a screenshot of your code and of the shape.
+- Swap the 'pentagon' command for 'pattern'. Think about how this works. 
+- *TASK:* Modify the code to make a program to draw a pattern of your own.
+   - You could have something made from 50 triangles
+   - Or a square, then a pentagon one after the other before rotating a bit and repeating
+   - Or you could change the pen colour a bit after each shape is drawn.
+- Remember - you can't break anything, so don't be afraid to experiment.
+- Upload a screenshot of your best pattern AND a shot of your code to BourneToLearn.
 ** Year 10 - Systems & Control
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
