@@ -92,9 +92,10 @@
 :END:
 - You've been using html and css to build your own web-pages.
 - You can also use html and css to create logos and graphics for your web-page, but it's a little tricky to do without some help.
-- Go to [[http://html-generator.weebly.com/css-shape-generator.html#007BFFy1z-76z-27z17z0][This html generator site]]
-- Use the simple tools to create a graphic for your web-page.
-- You can then copy and paste the generated html into a page of your own.
+- Go to [[http://html-generator.weebly.com/css-shape-generator.html#007BFFy1z-76z-27z17z0][This html generator site]].
+- Use the simple tools to create a graphic for your web-page. You can then copy and paste the generated html into a page of your own.
+- There is no need to click any 'download' links on the page at any time; the code generated can be copied and pasted into one of your own web pages.
+- *NOTE:* If you struggle to produce graphics with the tool, you can instead make a short web page about the history of the Internet, using HTML and some CSS.
 ** Year 8 - Computing
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
